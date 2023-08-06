@@ -3,9 +3,10 @@ HTML5 E-Learning game on basis of Multiple Choice Questions. This game has 5 lev
 
 Author: [Ashok Shah](https://www.shahnashok.com)
 
-[DEMO](https://rx4hvn.github.io/snakes-and-ladders/)
+[DEMO](https://twang820.github.io/snakes-and-ladders/)
 
-[DEMO OPTIONS](https://rx4hvn.github.io/snakes-and-ladders/#debug)
+
+[DEMO OPTIONS](https://twang820.github.io/snakes-and-ladders/#debug)
 
 ## Browser Support
 - IE 10+
