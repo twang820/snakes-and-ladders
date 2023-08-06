@@ -1,7 +1,7 @@
 var config = [
 
 /****************************************** 		level 1 ----------- animals 		******************************************/
-{level:"1", theme: "animals", question: "Which of these was not a red flag linked to Z Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "CEO charged with falsification of accounts", "No depreciation for a company with large asset base"], correct: 2},
+{level:"1", theme: "animals", question: "Which of these are red flags linked to Zetta Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "No depreciation for a company with large asset base", "All of the mentioned"], correct: 4},
 {level:"1", theme: "animals", question: "What are the red flags that the template picked up on Z Kicks?", answers: ["Unrealistic revenue growth", "No deferred revenue", "Unusually low Inventory/PP&E", "All of the mentioned"], correct: 1},
 {level:"1", theme: "animals", question: "Which of these was Not a red flag in regard to Olympus scandal?", answers: ["High Research and Development Expenditure", "Abrupt dismissal of its CEO", "Rapid and unexplained acquisitions", "Inadequate financial disclosures"], correct: 0},
 {level:"1", theme: "animals", question: "Which of these is not considered a fraudulent practice to inflate sales?", answers: ["Recording fictitious sales", "Channel stuffing", "Inflating revenue through acquisition", "Offering generous sales incentives, discounts, or promotions to customers"], correct: 3},
@@ -42,7 +42,7 @@ var config = [
 {level:"5", theme: "animals", question: "YUI Compressor is analogous to", answers: ["Minify", "JavaScript", "Both a and b", "None of the mentioned"], correct: 1},
 
 /****************************************** 		level 1 ----------- plants 		******************************************/
-{level:"1", theme: "animals", question: "Which of these was not a red flag linked to Z Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "CEO charged with falsification of accounts", "No depreciation for a company with large asset base"], correct: 2},
+{level:"1", theme: "animals", question: "Which of these are red flags linked to Zetta Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "No depreciation for a company with large asset base", "All of the mentioned"], correct: 4},
 {level:"1", theme: "animals", question: "What are the red flags that the template picked up on Z Kicks?", answers: ["Unrealistic revenue growth", "No deferred revenue", "Unusually low Inventory/PP&E", "All of the mentioned"], correct: 1},
 {level:"1", theme: "animals", question: "Which of these was Not a red flag in regard to Olympus scandal?", answers: ["High Research and Development Expenditure", "Abrupt dismissal of its CEO", "Rapid and unexplained acquisitions", "Inadequate financial disclosures"], correct: 0},
 {level:"1", theme: "animals", question: "Which of these is not considered a fraudulent practice to inflate sales?", answers: ["Recording fictitious sales", "Channel stuffing", "Inflating revenue through acquisition", "Offering generous sales incentives, discounts, or promotions to customers"], correct: 3},
@@ -84,7 +84,7 @@ var config = [
 
 
 /****************************************** 		level 1 ----------- water 		******************************************/
-{level:"1", theme: "animals", question: "Which of these was not a red flag linked to Z Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "CEO charged with falsification of accounts", "No depreciation for a company with large asset base"], correct: 2},
+{level:"1", theme: "animals", question: "Which of these are red flags linked to Zetta Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "No depreciation for a company with large asset base", "All of the mentioned"], correct: 4},
 {level:"1", theme: "animals", question: "What are the red flags that the template picked up on Z Kicks?", answers: ["Unrealistic revenue growth", "No deferred revenue", "Unusually low Inventory/PP&E", "All of the mentioned"], correct: 1},
 {level:"1", theme: "animals", question: "Which of these was Not a red flag in regard to Olympus scandal?", answers: ["High Research and Development Expenditure", "Abrupt dismissal of its CEO", "Rapid and unexplained acquisitions", "Inadequate financial disclosures"], correct: 0},
 {level:"1", theme: "animals", question: "Which of these is not considered a fraudulent practice to inflate sales?", answers: ["Recording fictitious sales", "Channel stuffing", "Inflating revenue through acquisition", "Offering generous sales incentives, discounts, or promotions to customers"], correct: 3},
@@ -126,7 +126,7 @@ var config = [
 
 
 /****************************************** 		level 1 ----------- safety 		******************************************/
-{level:"1", theme: "animals", question: "Which of these was not a red flag linked to Z Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "CEO charged with falsification of accounts", "No depreciation for a company with large asset base"], correct: 2},
+{level:"1", theme: "animals", question: "Which of these are red flags linked to Zetta Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "No depreciation for a company with large asset base", "All of the mentioned"], correct: 4},
 {level:"1", theme: "animals", question: "What are the red flags that the template picked up on Z Kicks?", answers: ["Unrealistic revenue growth", "No deferred revenue", "Unusually low Inventory/PP&E", "All of the mentioned"], correct: 1},
 {level:"1", theme: "animals", question: "Which of these was Not a red flag in regard to Olympus scandal?", answers: ["High Research and Development Expenditure", "Abrupt dismissal of its CEO", "Rapid and unexplained acquisitions", "Inadequate financial disclosures"], correct: 0},
 {level:"1", theme: "animals", question: "Which of these is not considered a fraudulent practice to inflate sales?", answers: ["Recording fictitious sales", "Channel stuffing", "Inflating revenue through acquisition", "Offering generous sales incentives, discounts, or promotions to customers"], correct: 3},
@@ -169,7 +169,7 @@ var config = [
 
 
 /****************************************** 		level 1 ----------- food 		******************************************/
-{level:"1", theme: "animals", question: "Which of these was not a red flag linked to Z Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "CEO charged with falsification of accounts", "No depreciation for a company with large asset base"], correct: 2},
+{level:"1", theme: "animals", question: "Which of these are red flags linked to Zetta Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "No depreciation for a company with large asset base", "All of the mentioned"], correct: 4},
 {level:"1", theme: "animals", question: "What are the red flags that the template picked up on Z Kicks?", answers: ["Unrealistic revenue growth", "No deferred revenue", "Unusually low Inventory/PP&E", "All of the mentioned"], correct: 1},
 {level:"1", theme: "animals", question: "Which of these was Not a red flag in regard to Olympus scandal?", answers: ["High Research and Development Expenditure", "Abrupt dismissal of its CEO", "Rapid and unexplained acquisitions", "Inadequate financial disclosures"], correct: 0},
 {level:"1", theme: "animals", question: "Which of these is not considered a fraudulent practice to inflate sales?", answers: ["Recording fictitious sales", "Channel stuffing", "Inflating revenue through acquisition", "Offering generous sales incentives, discounts, or promotions to customers"], correct: 3},
