@@ -1,8 +1,6 @@
 var config = [
 
     /****************************************** 		level 1 ----------- animals 		******************************************/
-    {level:"1", theme: "animals", question: "Which of these red flags were linked to Zetta Jets?", answers: ["Rapid fleet expansion", "Low fuel cost for a private jet operator", "No depreciation for a company with large asset base", "All of the mentioned"], correct: 4},
-    {level:"1", theme: "animals", question: "What red flags did the template pick up on Zadeh Kicks?", answers: ["Unrealistic revenue growth", "No deferred revenue", "Unusually low Inventory/PP&E", "All of the mentioned"], correct: 4},
     {level:"1", theme: "animals", question: "Which of these was not a red flag in relation to the Olympus scandal?", answers: ["High R&D expenditure", "Abrupt dismissal of its CEO", "Rapid and unexplained acquisitions", "Inadequate financial disclosures"], correct: 1},
     {level:"1", theme: "animals", question: "Which of these is not considered a fraudulent practice to inflate sales?", answers: ["Recording fictitious sales", "Channel stuffing", "Inflating revenue through acquisition", "Offering clients generous incentives, discounts, or promotions"], correct: 4},
     {level:"1", theme: "animals", question: "Which of these were red flags uncovered from Wirecard fraud case?", answers: ["Missing Cash Balances", "Delayed and incomplete audit reports", "Artificial inflation of profit", "All of the mentioned"], correct: 4},
